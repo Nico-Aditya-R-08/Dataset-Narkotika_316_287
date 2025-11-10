@@ -24,7 +24,7 @@ Repositori ini berisi dataset **putusan pengadilan** terkait tindak pidana **nar
 | **Format File** | PDF (putusan asli), XLSX (ringkasan data) |
 | **Topik** | Tindak Pidana Narkotika |
 | **Sumber Data** | Situs resmi putusan pengadilan negeri (putusan.mahkamahagung.go.id) |
-| **Periode Tahun** | 2021–2025 |
+| **Periode Tahun** | 2023–2025 |
 | **Tujuan Dataset** | Analisis hukum, pelatihan model NLP hukum, dan penelitian tekstual putusan pengadilan. |
 
 ---
